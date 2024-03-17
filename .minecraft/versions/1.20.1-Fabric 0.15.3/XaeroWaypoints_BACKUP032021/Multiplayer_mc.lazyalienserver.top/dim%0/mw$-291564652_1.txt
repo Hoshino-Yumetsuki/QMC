@@ -1,0 +1,10 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:蘑菇岛工业区:蘑:2961:63:6654:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:基岩家:基:849:64:869:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:西兰花:西:-936:78:2324:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:工业区:工:-2372:225:-420:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:全物品:全:437:23:-428:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:基地:基:166:66:394:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:出生点:出:-54:67:75:12:false:0:gui.xaero_default:false:0:0:false

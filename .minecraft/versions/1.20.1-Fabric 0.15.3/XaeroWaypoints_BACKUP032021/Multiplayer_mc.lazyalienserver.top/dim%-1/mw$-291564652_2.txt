@@ -1,0 +1,14 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:蘑菇岛工业区:蘑:369:128:830:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:基岩家:基:82:128:95:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:西兰花:西:-125:129:274:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:掠夺塔:掠:1188:129:2008:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint:D:191:98:80:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:堆门猪人塔挂机点:堆:1441:233:2232:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:全物品:全:62:128:-64:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:掠夺塔:掠:-295:256:-51:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:末地门:末:-298:128:-27:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:出生点工业区:出:20:128:50:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:出生点:出:-6:129:9:1:false:0:gui.xaero_default:false:0:0:false

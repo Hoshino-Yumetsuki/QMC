@@ -14,3 +14,7 @@ itemscroller
 .fabric
 yes_steve_model
 saves
+irisUpdateInfo.json
+launcher_profiles.json
+servers.dat
+servers.dat_old
