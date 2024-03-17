@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:老基地:老:-107:96:31:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:博物馆:博:278:97:65:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:出生点:出:-23:97:-28:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:地狱大厅:地:172:104:-176:2:false:0:gui.xaero_default:false:0:0:false

@@ -1,0 +1,8 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:袭击塔:袭:111:128:153:0:false:0:gui.xaero_default:false:0:false
+waypoint:沼泽刷怪塔:沼:-478:128:236:9:false:0:gui.xaero_default:false:0:false
+waypoint:gui.xaero_deathpoint_old:D:-17:87:-8:0:false:2:gui.xaero_default:false:0:true
+waypoint:末地门:末:-134:128:552:4:false:0:gui.xaero_default:false:0:false
+waypoint:基地:基:-38:129:-52:10:false:0:gui.xaero_default:false:0:false

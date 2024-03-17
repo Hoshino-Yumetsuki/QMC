@@ -1,0 +1,11 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:基地2:基:-126:111:-743:4:false:0:gui.xaero_default:false:0:false
+waypoint:gui.xaero_deathpoint_old:D:-307:57:-332:0:false:2:gui.xaero_default:false:0:true
+waypoint:gui.xaero_deathpoint_old:D:-285:-28:-274:0:false:2:gui.xaero_default:false:0:true
+waypoint:末地门:末:-1071:-9:4415:10:false:0:gui.xaero_default:false:0:false
+waypoint:基地1:基:-335:84:-454:8:false:0:gui.xaero_default:false:0:false
+waypoint:gui.xaero_deathpoint_old:D:557:63:209:0:false:2:gui.xaero_default:false:0:true
+waypoint:gui.xaero_deathpoint_old:D:490:71:105:0:false:2:gui.xaero_default:false:0:true
+waypoint:出生点:出:260:63:54:1:false:0:gui.xaero_default:false:0:false

@@ -1,0 +1,12 @@
+confirmedMultiworld:mw$-291564652
+autoMWBinding:mw$-412756787:mw$-291564652
+autoMWBinding:mw$-291564652:mw$-412756787
+MWName:mw$326210879:Map 1
+MWName:mw$-888254146:Map 4
+MWName:mw$1575204673:Map 5
+MWName:mw$-1908000468:Map 3
+MWName:mw$-412756787:Map 6
+MWName:mw$1956208378:Map 7
+MWName:mw$-291564652:Map 2
+caveModeType:0
+dimensionTypeId:minecraft:the_nether

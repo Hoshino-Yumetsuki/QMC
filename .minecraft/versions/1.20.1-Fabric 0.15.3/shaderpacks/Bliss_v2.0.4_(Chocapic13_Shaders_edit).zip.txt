@@ -1,0 +1,24 @@
+#Fri Mar 08 23:22:41 CST 2024
+shadowDistance=512.0
+Rain_coverage=1.2
+HQ_SSGI=true
+Glass_Tint=true
+CLOUDS_QUALITY=1.0
+THE_ORB=true
+DOF_QUALITY=4
+FAR_BLUR_ONLY=true
+SKY_CONTRIBUTION_IN_SSRT=true
+aperture=0.6
+moon_illuminance=600.0
+BLOOMY_FOG=0.25
+Haze_amount=1.25
+Exposure_Speed=2.0
+VL_RENDER_RESOLUTION=1.0
+CONTRAST=1.06
+Seasons=false
+MIN_LIGHT_AMOUNT=2.0
+BLOOM_STRENGTH=6.0
+GI_Strength=1.5
+USE_ACES_COLORSPACE_APPROXIMATION=true
+VL_SAMPLES=50
+indirect_effect=4
